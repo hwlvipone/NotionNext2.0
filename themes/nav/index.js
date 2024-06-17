@@ -106,7 +106,7 @@ const LayoutBase = (props) => {
 
                         {/* 页脚站点信息 */}
                         <div className='w-56 fixed left-0 bottom-0 z-0'>
-                            <Live2D />
+                            
                             <Footer {...props} />
                         </div>
                     </div>
