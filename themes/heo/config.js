@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到云端奇趣', url: 'https://www.yunduanqiqu.com' }
+    { title: '欢迎来到云端奇趣本站所有资源均来自网络免费分享,如有侵权请联系站长删除', url: 'https://www.yunduanqiqu.com' }
   ],
 
   // 英雄区左右侧组件颠倒位置
