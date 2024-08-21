@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '全部免费！',
   HEO_HERO_TITLE_3: 'yunduanqiqu.com',
   HEO_HERO_TITLE_4: '热门推荐',
-  HEO_HERO_TITLE_5: '沙丘2 无删减全集',
-  HEO_HERO_TITLE_LINK: 'https://www.yunduanqiqu.com/article/63e389c8-51d7-42ba-954e-fab1189dd0d4',
+  HEO_HERO_TITLE_5: '权力的游戏 无删减全集',
+  HEO_HERO_TITLE_LINK: 'https://www.yunduanqiqu.com/article/11a27f87-1825-4c21-a6fc-65eea21d9b88',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
