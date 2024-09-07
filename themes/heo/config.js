@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到云端奇趣本站所有资源均来自网络免费分享,如有侵权请联系站长删除', url: 'https://www.yunduanqiqu.com' }
+    { title: '欢迎来到云端奇趣本站所有资源均来自网络免费分享,如有侵权请联系站长删除', url: 'https://www.yunduanqiqu.com/about-me' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '全部免费！',
   HEO_HERO_TITLE_3: 'yunduanqiqu.com',
   HEO_HERO_TITLE_4: '热门推荐',
-  HEO_HERO_TITLE_5: '权力的游戏 无删减全集',
-  HEO_HERO_TITLE_LINK: 'https://www.yunduanqiqu.com/article/11a27f87-1825-4c21-a6fc-65eea21d9b88',
+  HEO_HERO_TITLE_5: '最强公考资源合集',
+  HEO_HERO_TITLE_LINK: 'https://www.yunduanqiqu.com/article/e15bfbff-b8d9-4a21-96bb-b9e876cafb97',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
