@@ -104,10 +104,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_1: '资源聚合',
+  HEO_SOCIAL_CARD_TITLE_2: '所有资源聚合入口',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=bTKkV95KCtMVxIe6_MK3ZPLXkzwfMbT6&authKey=6mBs2tv2yg%2F2VorvPCSN26VuxxCxQEM9GKlSdwgaZ72ij4LQiS4YjTczFJE7tLKK&noverify=0&group_code=724249980',
+  HEO_SOCIAL_CARD_URL: 'https://link3.cc/momo6688',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
