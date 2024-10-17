@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '全部免费！',
   HEO_HERO_TITLE_3: 'yunduanqiqu.com',
   HEO_HERO_TITLE_4: '热门推荐',
-  HEO_HERO_TITLE_5: '最强公考资源合集',
-  HEO_HERO_TITLE_LINK: 'https://www.yunduanqiqu.com/article/e15bfbff-b8d9-4a21-96bb-b9e876cafb97',
+  HEO_HERO_TITLE_5: '10000 + 影视资源合集',
+  HEO_HERO_TITLE_LINK: 'https://link3.cc/momo6688',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
